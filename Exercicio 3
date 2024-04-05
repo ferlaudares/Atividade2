@@ -1,0 +1,21 @@
+<?php
+
+$numero = 0;
+$total = 0;
+$continua = true;
+$contador = 0;
+
+while($continua){
+
+$numero = readline("Digite um valor: ");
+if($numero > 0){
+    $total = $total + $numero;
+    $contador++;
+}
+
+if($numero < 0){
+    echo "A média é: ". $total / $contador;
+    $continua = false;
+}
+
+}
