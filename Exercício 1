@@ -1,0 +1,90 @@
+ <?php
+$numero = 1; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 2; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+
+$numero = 3; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 4; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 5; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 6; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 7; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 8; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 9; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
+
+<?php
+$numero = 10; 
+
+echo "Tabuada do $numero:\n";
+for ($i = 1; $i <= 10; $i++) {
+    echo "$numero x $i = " . ($numero * $i) . "\n";
+}
+?>
